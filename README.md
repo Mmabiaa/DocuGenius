@@ -34,7 +34,7 @@ A modern document generation and management platform built with React, TypeScrip
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/docugenius.git
+git clone https://github.com/mmabiaa/docugenius.git
 cd docugenius
 ```
 
