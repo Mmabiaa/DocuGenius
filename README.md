@@ -1,3 +1,4 @@
+
 # DocuGenius
 
 A modern document generation and management platform built with React, TypeScript, and Tailwind CSS.
