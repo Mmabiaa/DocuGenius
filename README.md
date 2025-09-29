@@ -85,5 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/mmabiaa)
+Boate Prince Agyenim - [@mmabiaa](https://twitter.com/mmabiaa)
 Project Link: [https://github.com/mmabiaa/docugenius](https://github.com/mmabiaa/docugenius) 
